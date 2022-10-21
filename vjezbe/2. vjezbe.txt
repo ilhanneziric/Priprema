@@ -1,0 +1,37 @@
+docker:
+-instaliranje mssql i pokretanje
+
+13:00 -> instaliranje nuget paketa
+
+code first from database
+reverse engineering
+scaffolding
+
+komanda koja je meni radila Scaffold-DbContext "Server=localhost;Database=eProdaja;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Database
+
+= null!; objanio i jos vezano za null i nullable
+
+povezivanje s bazom
+
+sigurnost vracanja razlicitih stvar inpr lozinki i dijagnoza
+
+kreirao eProdaja.Model i stavio .Net standard 2.0 umjesto .net 6.0 nesto zbog winformi kasnije kad ih bude koristio 1:27:00
+
+autofac -> 1:47:00 -> za vecu ocjenu koristit, on je kao dodatni dependency injection
+
+automaper 
+instaliranje automappera 2:05:00
+
+zasto ne trebamo imati onaj property od parenta u childu npr proizvod ima 1 jednicu mjere a 1 jedinica mjere ima vise proizvoda, u proizvod mozemo staviti
+prop jedinicu mjere a u jednicu mjere ne bi trebali staviti prop proizvod jer kada budemo trazili jednicu mjere moze nam se vratiti nekoliko 
+miliona proizvoda i time bi srusili sistem -> 2:31:00
+
+((treba uvijek paziti u kojem projektu instaliramo koje nuget pakete))
+
+Kako treba praviti service:
+1. kreirati model
+2. kreirati interface u serviceu
+3. kreirati service
+4. kreirati controller
+5. dodati addtransient u program.cs
+6. kreirati mapu u mappingProfile 

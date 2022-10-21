@@ -1,0 +1,6 @@
+do prve pauze -> mescini objasnjavao od prosli put kako sve radi, nastavio raditi na ovom gdje je stao prosli put
+
+do druge pauze -> windows forms app, flurl, generic methods for calling apis, objasnjavanje za multithreading, async/await, post put
+
+ako budem radio state machine pattern otici na state-machine-cat.js.org i tu vidjeti kako mi sve treba biti, on je to radio u 45:00 tako da to trebam 
+ponovo pogledati a radio je i u 4. vjezbama

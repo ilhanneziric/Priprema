@@ -1,0 +1,10 @@
+do prve pauze -> prico o dockeru, o kreiranju baze mssql valjda,onda je uradio build projekta preko cmd-a (ali mislim da je to uradio bez dockera), 
+dockerfile objasnjavao, pokretanje dockera build container image sta ti ga ja znam
+
+do kraja -> docker compose, neka sigurnost, pa onda je pokreco pa je imao dosta problema i nista nisma skonto, onda pokreco migracije 1:24:00, na 1:28:00
+je pokrenuo sve kako treba i dodao u bazu i prikazao na browseru podatke, o .env fajlu i kako on radi sa dockerom, kako u vs kreirati enviroment variable
+
+one image is like my laptop
+containers running images
+
+PRIPAZITI KAD SE POVEZUJEM NA MSSQL SERVER KUCATI localhost, 1401 ili neki drugi port na koji stavim da mi se vrti sql server

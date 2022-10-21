@@ -1,0 +1,4 @@
+do prve pauze -> prikazivanje podataka iz baze na datagridviewu, filtriranje podataka
+do druge pauze -> malo prico o sigurnosti i kako im je hakovana mongodb baza isto kao i kod mene, identity server (1:04:00), pravio je valjda autentikaciju
+i login formu ono sigurnost api-eva,
+do kraja -> autorizacija, i kako sve autorizovati i kako nesto ostaviti public available

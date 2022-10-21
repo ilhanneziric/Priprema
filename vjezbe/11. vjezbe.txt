@@ -1,0 +1,7 @@
+do prve pauze -> malo prico o rutiranju, onda o strukturi projekta malo (neko stavlja screen a neko page, ja cu page jer mi vise odgovara u projektu),
+implementirao rutiranje, objasnjavao u vezi onog providera, implementiranje providera, objasnjavao promjenu stateova ono renderovanje radi isto kao react,
+
+do druge pauze -> dohvacanje podataka iz baze i prikazivanje na ui, grid i list objasnjavao, prikazivanje slika, uredjivanje, kreirao model Product i 
+zamijenio da bude ono kao pravi json
+
+i loading je uradio ali sam zbrv kad tacno

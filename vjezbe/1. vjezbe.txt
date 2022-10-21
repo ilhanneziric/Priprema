@@ -1,0 +1,3 @@
+od pocetka je dosta prico o predmetu, onda o arhitekturama...
+onda je krenuo praviti projekat
+onda je objasnjavao dependency injection

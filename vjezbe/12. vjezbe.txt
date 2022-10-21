@@ -1,0 +1,7 @@
+do prve pauze -> ispricao o base_provideru, na pocetku je spomenuo neki github copilot alat kao intellisense koji pomaze i sam ti pise kod ali nije objasnio gdje
+i kako ga je instalirao, u 29:00 objasnjavao kako se konektovati na mob preko usb i koristiti api (onaj problem sto ja nisam mogao), 
+
+do druge pauze -> kako prikazati cijenu i formatirati kako nama odgovara, filtriranje podataka, potvrdjivanje filtriranja preko buttona, objasnjavao kako
+preko komentara dobiti predlaganja iz github copilota, themes
+
+flutter run --dart=define=baseUrl=https://google.com

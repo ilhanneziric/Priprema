@@ -1,0 +1,8 @@
+do prve pauze -> pricao o standardizaciji, pravljenje svega sto smo dosad radili, o many to many kako ide insert and update kada treba sa dvije tabele,
+o sigurnosti sa lozinkama (ovdje mogu da skontam zasto je dobro da sve sto je bitno a pohranjuje se u bazu bude hesirano), 
+
+do druge pauze -> nastavio ovo gore sto je poceo, salt i hash, state mashine
+
+do kraja -> nastavak state machine objasnjenje i implementacija
+
+1:30:30 je rekao da koristimo SHA2 ili SHA3 umjesto SHA1 i zasto

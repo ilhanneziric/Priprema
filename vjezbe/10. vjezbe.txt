@@ -1,0 +1,3 @@
+do prve pauze -> za sta se koristi flutter i instalacija fluttera, o flutteru, kako ga uciti, composite pattern, jos malo o flutter strukturi
+do druge pauze -> kreiranje projekta, o dependiciesima, pokretanje aplikaicje, mjenjanje ui-ja(rows and columns, padding, poredavanje elemenata), slike,
+do kraja -> inputetext, onda ostalo zavrsio ui i objasnjavao poravnavanja, gradient i ostale stvari

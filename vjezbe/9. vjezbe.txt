@@ -1,0 +1,6 @@
+do prve pauze -> prico o ml (prico o jednom njihovom projektu gdje su koristili ML da uzmu broj licne i sliku sa licne i to povezivali sa valjda 
+slikom profila i tako utvrdjivali da li se radi o toj osobo ovo bih ja mogao iskoristiti za potpis nekako preko ML da se detektuje da li je prava osoba
+za telefonom pa da daje autograme), i objasnjavao dokumentaciju za ml.net
+
+do druge pauze -> instalacija potrebnih paketa, implementacija u kodu u product serviceu, kreiranje controllera, objasnjavao kako to sve radi preko
+konzole, govorio je da trebamo nesto podijeliti na dvije funkcije/metode za seminarski, o brzini nesto, o cacheingu/kesiranju,

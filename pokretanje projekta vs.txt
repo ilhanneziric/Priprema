@@ -1,0 +1,24 @@
+kreirati github repo
+odabrati asp.net core web api tamplate
+enable openapi
+kreirati projekat
+DOdati konekciju na bazu:
+"ConnectionStrings": {
+    "PripremDB": "Server:localhost;Database:pripremadb;Port:5432;User Id: postgres;Password:sifra"
+}
+dodati novi projekat u solution koji ce se zvati eProdaja.Services
+desni klik na dependencies u eProdaja, i add project reference i kliknuti na Services
+
+instaliranje paketa za Services, desni klik na services i manage nuget packages:
+npgsql.entityframeworkcore.postgresql
+
+kreirati modele
+kreirati datacontext
+u program.cs dodajemo datacontext
+
+instalirati paket za migracije u services: microsoft.entitityframeworkcore.tools i microsoft.entitityframeworkcore.design
+kreirati migraciju Add-Migration Initial, dobro paziti gdje se nalazim, jer se trebam nalaziti u services
+ 
+u program.cs dodavati tranziente kad napravim interface
+
+https://www.youtube.com/watch?v=yGwGLcqcJ6Q

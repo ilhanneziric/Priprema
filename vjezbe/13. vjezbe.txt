@@ -1,0 +1,5 @@
+do prve pauze -> objasnjavo sta je radio, ono sidedrawer, sta razlike popandpushnamed i pushnamed, objasnjavao nesto kad da koristimo neke stvari kada 
+znamo koliko imamo elementara u listi i kada ne znamo, objasnjavao kako se mjenja defaultno style, expanded objasnjavao, objasnjavao watch i read razlike,
+
+do druge pauze -> o buy buttonu, objasnjavao buy opciju na backendu insert, objasnjavao malo reusability sa onim MasterScreenWidgetom, onda kako poslati
+id neceg i napraviti rutu otvriti detaljno o productu, objasnjavao i pokazivao prave projekte, o source generatorima i kako sve to radi

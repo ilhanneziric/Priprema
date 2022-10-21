@@ -1,0 +1,14 @@
+do prve pauze -> kreiranje interfejsa IService, zasto se trebaju koristitit one genericki tipovi (T), oko nasljedjivanja, SOLID principles(39:00), 
+basecontroller
+
+do druge pauze -> nesto oko searcha ili filtriranja nisam gledao ispocetka, generic paging and sorting
+
+do trece pauze -> icrudservice, insert and update, upsert request
+
+single responsibility primciple je kad bi napravili eProdajaService koji bi radio sve metode (get,getbyid,update,delete) i tako skratili kodiranje, ali
+nedostatak ovaga je sto ne mozes da dodajes noce metode
+
+open closed -> npr kada bi facebook svoj apiza dohvacanje usera koji koristi molion developera promjenio iz /user u /client onda bi svi ti developeri
+morali isto tako promijeniti i to je problem, smije se prosirivagti ali se ne smije modificirati
+
+upsert stavljmo samo kada smo sigurni da ce nam i insert i update model/requset biti isti, to je vecinom za one koje imaji malo prop kao jedinica mjere

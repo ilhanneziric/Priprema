@@ -1,0 +1,5 @@
+do prve pauze -> objasnjavao za ono mdi menu kako se kreira, onda kako se spajaju one uloge u jedan string i kako se prikazuju, upravljanje 
+datagridview-om (ostavljanje samo sadrzaja kojeg mi zelimo), onda dohvacanje onih rola u ubacoivanje u checklistbox (napravio je ulogacontroller bezze
+tako da ne bi trebao gledati kako je uradio uloga controller pa da mi on bude primjer kako da radim vec uzet neke druge)
+
+do kraja -> insert usera, update, errorfilter, validacija u modelu, ErrorProvider, validacija polja, validacija forme
